@@ -1,0 +1,12 @@
+com\landsafe\WebSocketEventPublishingTest.class
+com\landsafe\AlertLifecycleTest.class
+com\landsafe\AuthControllerTest.class
+com\landsafe\ThresholdAuthorizationTest.class
+com\landsafe\DeviceAlertTest.class
+com\landsafe\WebSocketEventPublishingTest$1.class
+com\landsafe\WebSocketSecurityTest.class
+com\landsafe\SensorIngestionTest.class
+com\landsafe\NotificationSubscriptionTest.class
+com\landsafe\RiskCalculationServiceTest.class
+com\landsafe\DeviceHeartbeatTest.class
+com\landsafe\AlertSecurityTest.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.landsafe.AlertLifecycleTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.59 s -- in com.landsafe.AlertLifecycleTest
